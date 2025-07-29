@@ -4,7 +4,7 @@ Cho N điểm phân biệt trên mặt phẳng Oxy. Hãy đếm số cách chọ
 ### **Input:**
 Dòng đầu tiên chứa số nguyên N (3 ≤ N ≤ 300)
 
-N dòng tiếp theo, mỗi dòng gồm 2 số nguyên X[i] và Y[i] mô tả tọa độ của một điểm (-10<sup>9</sup>≤X<sub>i</sub>,Y<sub>i</sub>≤10<sup>9</sup>)
+N dòng tiếp theo, mỗi dòng gồm 2 số nguyên X[i] và Y[i] mô tả tọa độ của một điểm (-10<sup>9</sup>≤X[i],Y[i]≤10<sup>9</sup>)
 ### **Output:**
 In ra một số nguyên là số lượng tam giác tìm được
 ### **Ví dụ:**
