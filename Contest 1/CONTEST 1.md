@@ -218,7 +218,3 @@ Ghi ra một số là tổng chi phí nhỏ nhất tìm được.
 |**Input**|**Output**|
 | :- | :- |
 |<p>4</p><p>1 1</p><p>2 2</p><p>3 2</p><p>4 1</p>|6|
-
-2
-
-[ref1]: Aspose.Words.b9869112-d113-4692-b996-0f0f6e2deb4f.001.png
