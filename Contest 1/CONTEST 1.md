@@ -1,11 +1,10 @@
-![ref1]
 # **CONTEST 1**
 ## **1. Bài A**
 Cho N điểm phân biệt trên mặt phẳng Oxy. Hãy đếm số cách chọn 3 điểm để tạo thành một tam giác.
 ### **Input:**
-Dòng đầu tiên chứa số nguyên N (3 £ N £ 300)
+Dòng đầu tiên chứa số nguyên N (3 ≤ N ≤ 300)
 
-N dòng tiếp theo, mỗi dòng gồm 2 số nguyên X[i] và Y[i] mô tả tọa độ của một điểm (-109≤Xⅈ,Yⅈ≤109)
+N dòng tiếp theo, mỗi dòng gồm 2 số nguyên X[i] và Y[i] mô tả tọa độ của một điểm (-10<sup>9</sup>≤Xⅈ,Yⅈ≤10<sup>9</sup>)
 ### **Output:**
 In ra một số nguyên là số lượng tam giác tìm được
 ### **Ví dụ:**
@@ -18,7 +17,7 @@ In ra một số nguyên là số lượng tam giác tìm được
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài B**
+## **2. Bài B**
 Cho xâu S độ dài N và K từ phân biệt trong từ điển. Tính số cách ghép các từ trong từ điển để tạo thành xâu S (Một từ có thể sử dụng nhiều lần).
 ### **Input:**
 Dòng đầu nhập xâu S độ dài bằng N (1 ≤ N ≤ 5000).
@@ -38,7 +37,7 @@ In ra số cách ghép từ chia dư cho 10<sup>9</sup> + 7.
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài C**
+## **3. Bài C**
 Cho xâu S. Tìm xâu con dài nhất có thể của xâu S sao cho xâu con này có kí tự bắt đầu là ‘A’ và kí tự kết thúc là ‘Z’.
 ### **Input:**
 Một xâu S có độ dài không quá 200000, chỉ gồm các chữ cái in hoa.
@@ -54,7 +53,7 @@ In ra độ dài xâu con dài nhất tìm được.
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài D**
+## **4. Bài D**
 Cho dãy số A[] có N phần tử. Mỗi phần tử sẽ được gán một màu sắc sao cho tính chất sau luôn được thỏa mãn: Với 2 phần tử A[i] và A[j] (i < j) được tô cùng một màu thì bắt buộc A[i] < A[j]. Hỏi cần sử dụng ít nhất bao nhiêu màu để có thể tô màu được dãy số đã cho?
 ### **Input:**
 Dòng đầu tiên chứa số nguyên N (1 ≤ N ≤ 100000).
@@ -77,7 +76,7 @@ Giải thích test 2: Chúng ta cần sử dụng 4 màu khác nhau.
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài E**
+## **5. Bài E**
 Tí và Tèo cùng chơi trò chơi đối kháng như sau:
 
 \1) Có n viên sỏi trong rổ, mỗi lượt, người chơi sẽ bốc 1 số viên sỏi trong rổ (Ít nhất 1 viên và nhiều nhất là n viên)\. Tí là người đi trước, 2 người chơi luân phiên nhau\.
@@ -109,7 +108,7 @@ Lượt đầu tiên, Tí có thể bốc 1, 2, 3, 4 viên sỏi.
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài F**
+## **6. Bài F**
 Cho hai số a và b trong đó a ≤ 10<sup>12</sup>, b ≤ 10<sup>250</sup>. Tìm ước số chung lớn nhất của chúng.
 ### **Input:**
 - Dòng đầu tiên đưa vào T (1 ≤ T ≤ 100)là số lượng bộ test.
@@ -125,7 +124,7 @@ Cho hai số a và b trong đó a ≤ 10<sup>12</sup>, b ≤ 10<sup>250</sup>. T
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 65536 Kb
-1. ## **Bài G**
+## **7. Bài G**
 Cho dãy số A[] gồm N số nguyên A[1], A[2],...,A[N]. Mỗi số nguyên có giá trị từ 0 đến M−1 với M là một số cho trước.
 
 Trong một thao tác, bạn có thể chọn một số nguyên K và K chỉ số i<sub>1</sub>,i<sub>2</sub>,...,i<sub>K</sub> (với 1 ≤ i<sub>1</sub> < i<sub>2</sub> <...< i<sub>K</sub> ≤ N). Sau đó, với mỗi chỉ số i<sub>x</sub> đã chọn, bạn thay đổi giá trị A[i<sub>x</sub>] thành (A[i<sub>x</sub>]+1) (mod M).
@@ -150,7 +149,7 @@ Test 2: Chọn bộ chỉ số (2, 5) và thực hiện 1 thao tác, dãy số m
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 500000 Kb
-1. ## **Bài H**
+## **8. Bài H**
 Cho hai số nguyên A và B. Bạn có thể thực hiện một chuỗi các phép tính: trong phép tính đầu tiên, chọn một số và tăng nó lên 1; trong phép tính thứ hai, chọn một số và tăng nó lên 2, v.v.
 
 Bạn được phép tự chọn số lượng các phép tính này.
@@ -185,7 +184,7 @@ Test 3: Cộng từ 1 đến 4 vào B (B trở thành 20 + 1 + 2 + 3 + 4 = 30)
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 524288 Kb
-1. ## **Bài I**
+## **9. Bài I**
 Cho hai số tự nhiên N và K (K < N). Đếm số ước của C(K, N), với C(K, N) là số tổ hợp chập K của N phần tử
 ### **Input:**
 Có vô số test (Yêu cầu đọc hết tất cả các dòng trong dữ liệu vào).
@@ -204,7 +203,7 @@ Dữ liệu vào đảm bảo kết quả không vượt quá kiểu số nguyê
 Giới hạn thời gian: 2s
 
 Giới hạn bộ nhớ: 200000 Kb
-1. ## **Bài J**
+## **10. Bài J**
 Một khu du lịch có n hòn đảo, hòn đảo i có độ cao hi. Để di chuyển từ hòn đảo i đến hòn đảo j, du khách có thể sử dụng tàu lượn với chi phí là max(0, h<sub>j</sub> – h<sub>i</sub>). Tuy nhiên, sau một thời gian cho thuê tàu lượn, các nhà thầu đã áp giá sàn cho đảo thứ i là pi, cụ thể để di chuyển từ đảo i đến đảo j, chi phí tính mới là max (p<sub>i</sub>, h<sub>j</sub> – h<sub>i</sub>):
 
 Một du khách muốn đi thăm tất cả n hòn đảo bằng tàu lượn theo cách: bắt đầu từ hòn đảo 1, sử dụng tàu lượn để tới các hòn đảo khác, mỗi hòn đảo thăm đúng một lần rồi quay lại hòn đảo 1.
