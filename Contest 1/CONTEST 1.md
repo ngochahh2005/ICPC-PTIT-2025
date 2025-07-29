@@ -1,6 +1,6 @@
 ![ref1]
 # **CONTEST 1**
-1. ## **Bài A**
+## **1. Bài A**
 Cho N điểm phân biệt trên mặt phẳng Oxy. Hãy đếm số cách chọn 3 điểm để tạo thành một tam giác.
 ### **Input:**
 Dòng đầu tiên chứa số nguyên N (3 £ N £ 300)
