@@ -1,5 +1,5 @@
 ﻿CONTEST 4
-# A.
+# A
 Cho hai số nguyên N và M. Hãy đếm số lượng các dãy số thỏa mãn:
 
 - Độ dài dãy số đúng bằng N.
