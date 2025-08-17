@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Me\\Study\\Code\\ICPC\\PTIT\\Contest 2\\E.cpp","tests":[{"id":1754188573529,"input":"3\n3 3\n3 6 9\n1 100\n4\n4 2\n2 4 7 9","output":"4\n1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Me\\Study\\Code\\ICPC\\PTIT\\Contest 2\\E.cpp","group":"local","local":true}

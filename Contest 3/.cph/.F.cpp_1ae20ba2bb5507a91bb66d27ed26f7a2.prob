@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\Me\\Study\\Code\\ICPC\\PTIT\\Contest 3\\F.cpp","tests":[{"id":1754834131140,"input":"2 4\n1 3\n1 2","output":"4"},{"id":1754834140437,"input":"4 50\n1 20\n1 20\n1 20\n1 20","output":"113623"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Me\\Study\\Code\\ICPC\\PTIT\\Contest 3\\F.cpp","group":"local","local":true}
