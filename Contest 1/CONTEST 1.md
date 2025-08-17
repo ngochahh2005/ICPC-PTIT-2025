@@ -217,4 +217,8 @@ Ghi ra một số là tổng chi phí nhỏ nhất tìm được.
 
 |**Input**|**Output**|
 | :- | :- |
+<<<<<<< HEAD
 |<p>4</p><p>1 1</p><p>2 2</p><p>3 2</p><p>4 1</p>|6|
+=======
+|<p>4</p><p>1 1</p><p>2 2</p><p>3 2</p><p>4 1</p>|6|
+>>>>>>> c3f6dcee15fb141c87edaf64c5988efc42d8d570
